@@ -1,0 +1,21 @@
+datetime,user,location,poltype,question,response,pos,neg,neu
+,,,pos,,Good to hear!,0.615,0,0.385
+,,,neg,,s,0,0,0
+,,,pos,,That is so good to hear!,0.446,0,0.554
+,,,pos,,Wonderful!,1,0,0
+,,,pos,,Awesome.,1,0,0
+,,,pos,,Oh happy day!,0.666,0,0.334
+,,,neg,,Your emotions are important during this time,0.406,0,0.594
+,,,neg,,That's too bad,0,0.636,0.364
+,,,neg,,That's too bad,0,0.636,0.364
+,,,neg,,I'm so sorry you feel like that.,0.275,0.175,0.55
+,,,neg,,I promise it gets better. ,0.722,0,0.278
+,,,pos,,Awesome.,1,0,0
+,,,neg,,I'm sorry you aren't feeling good.,0,0.629,0.371
+,,,pos,,That is so great!,1,0,0
+,,,pos,,good,1,0,0
+,,,pos,,good,1,0,0
+,,,pos,,awesome,1,0,0
+,,,pos,,Going to movie,0.6,0,0
+,,,neg,,terrible,0,1,0
+,,,neg,,die,0,1,0
